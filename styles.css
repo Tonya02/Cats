@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #ffbdca;
+    font-size: 20px;
+    border-radius: 10px;
+}
+ul {
+    list-style-type: disc;
+    padding-left: 20px; /* Добавляет небольшой отступ слева для выравнивания с текстом */
+  }
+  
+  h1, h3 {
+    margin: 0; /* Убирает отступы у заголовков */
+  }
