@@ -49,3 +49,7 @@ ul {
     left: 900px; /* сдвиг вправо */
     margin-top: -150px;
   }
+  .block {
+    font-family: Arial, sans-serif; /* Замените "Arial" на желаемый шрифт */
+    line-height: 1.5;
+  }
